@@ -1,0 +1,113 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+#map {
+    height: 100%;
+    z-index: 0;
+}
+
+#topButton {
+position: fixed;
+top: 10px;
+left: 50%;
+transform: translateX(-50%);
+background-color: white;
+color: black;
+padding: 10px;
+border: 1px solid #ccc;
+cursor: pointer;
+z-index: 1;
+font-family: Arial, sans-serif;
+font-size: 14px;
+border-radius: 5px;
+transition: background-color 0.2s ease;
+}
+
+#topButton:hover {
+background-color: #f0f0f0;
+}
+#topRightButton {
+position: fixed;
+bottom: 10px;
+left: 10px;
+background-color: grey;
+background-size: cover;
+color: white;
+padding: 10px;
+border: none;
+cursor: pointer;
+z-index: 1;
+font-family: Arial, sans-serif;
+font-size: 14px;
+border-radius: 5px;
+transition: background-color 0.2s ease;
+}
+
+.invisible-column {
+    display: none;
+}
+
+.reviews-text {
+    margin-top: 10px;
+    color: #5f9ea0;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.review-input {
+    display: none;
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+#allControlsBtn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 1000; /* Ensure button is above the map */
+}
+#tabulatedData {
+        position: absolute;
+        top: 50px;
+        right: 10px;
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 10px;
+        max-height: 300px;
+        overflow-y: auto;
+        z-index: 1000; /* Ensure data is above the map */
+    }
+
+#dataTable {
+       width: 100%;
+       border-collapse: collapse;
+     }
+
+th, td {
+       padding: 8px;
+       text-align: left;
+       border-bottom: 1px solid #ddd;
+     }
+
+     /* Header styles */
+th {
+       background-color: #6fa8dc; /* Shade of blue */
+       color: white;
+     }
+
+     /* Zebra striping for rows */
+#tr1:nth-child(even) {
+       background-color: #d9ead3; /* Light shade of green */
+     }
+
+#tr1:nth-child(odd) {
+       background-color: #b6d7a8; /* Darker shade of green */
+     }
+
+     /* Hover effect for rows */
+tr:hover {
+       background-color: #a2c4c9; /* Shade of blue-green */
+     }

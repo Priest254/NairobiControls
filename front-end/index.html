@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAIROBI CONTROLS</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="lib/leaflet/dist/leaflet.css">
+    <link rel="stylesheet" href="lib/markerclusterer/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="lib/markerclusterer/MarkerCluster.css" />
+    <!-- Other CSS links as needed -->
+
+</head>
+<body>
+  <style>
+  /* Basic table styles */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+
+  /* Header styles */
+  th {
+    background-color: #6fa8dc; /* Shade of blue */
+    color: white;
+  }
+
+  /* Zebra striping for rows */
+  tr:nth-child(even) {
+    background-color: #d9ead3; /* Light shade of green */
+  }
+
+  tr:nth-child(odd) {
+    background-color: #b6d7a8; /* Darker shade of green */
+  }
+
+  /* Hover effect for rows */
+  tr:hover {
+    background-color: #a2c4c9; /* Shade of blue-green */
+  }
+
+  </style>
+  <div id="map"></div>
+    <!-- Scripts -->
+    <script src="lib/leaflet/dist/leaflet.js"></script>
+    <script src="lib/markerclusterer/leaflet.markercluster-src.js"></script>
+    <script src="lib/papa/papaparse.min.js"></script>
+    <script src="js/controls.js"></script>
+
+    <script src="lib/html2pdf.js/html2pdf.bundle.min.js"></script>
+    <script src="lib/jspdf/jspdf.umd.min.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/popup.js"></script>
+    <script src="js/controls.js"></script>
+    <script src="lib/shpjs/shp.min.js"></script>
+    <script src="js/shapefile.js"></script>
+
+    <!-- Hidden popup -->
+  <div id="infoPopup" style="display: none;">
+    <input type="text" id="infoInput" maxlength="25" placeholder="Enter up to 25 characters">
+    <button id="saveInfoBtn">Save Information</button>
+  </div>
+
+  <button id="topButton" onclick="searchControl()">Search for available controls</button>
+  <button id="topRightButton" onclick="toggleMapLayer()">Switch Map Layer</button>
+
+  <!-- Button for All Controls -->
+  <div id="allControlsBtn">
+    <button onclick="showAllControls()">All Controls</button>
+  </div>
+  <!-- Container for tabulated data -->
+  <div id="tabulatedData" style="display: none;">
+    <table id="dataTable">
+        <!-- Table content will be populated dynamically -->
+    </table>
+  </div>
+
+
+
+
+</body>
+</html>

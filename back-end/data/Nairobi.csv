@@ -1,0 +1,55 @@
+c,Northings,Eastings,Heights,Station Name,Station,Datum,Condition,Reviews,Y,X,Type,Source
+1,9893875.45,237730.76,2610.81,Kireita Forest,SKP 209,Arc 1960 Zone 37M,Re-established,Very Good,-0.96203,36.644262,I.P.C.U. Re-est from witness marks,SoK
+2,9874964.81,274378.62,1534.39,Ruiru,148 S3,Arc 1960 Zone 37M,Not updated,Bad Point,-1.133224,36.973301,I.P.C.U.          Old,SoK
+3,9835375.07,234861.94,1861.74,Olepolos,148 ST5,Arc 1960 Zone 37M,Not updated,Bad Point,-1.490821,36.618033,I.P.C.U.          Old,SoK
+4,9878315.02,289949.59,1500.01,Ndarugu East,149 S2,Arc 1960 Zone 37M,Good,Bad Point,-1.103026,37.113198,I.P.C.U.          Old,SoK
+5,9837592.79,284419.1,1837.96,Kasanga Conservancy,149 S3,Arc 1960 Zone 37M,Not updated,Bad Point,-1.471207,37.063238,I.P.C.U.          Old,SoK
+6,9860784.96,246266.34,1899.2,Uthiru,148 T1,Arc 1960 Zone 37M,Not updated,Bad Point,-1.261223,36.720688,Pipe in conerete old,SoK
+7,9856148.77,261106.88,1677.59,Printpark,148 T3,Arc 1960 Zone 37M,Not updated,Bad Point,-1.303252,36.853953,Brass Plug in concrete   old,SoK
+8,9846384.24,252151.51,1716.2,Masai Lodge,148 T19,Arc 1960 Zone 37M,Not updated,Bad Point,-1.391457,36.773432,I.P.C.U.      Re -est under steel,SoK
+9,9871405.22,286783.81,1481.57,Juja Farm,149 T4,Arc 1960 Zone 37M,Not updated,Bad Point,-1.165487,37.084717,Brass Plug in concrete   old,SoK
+10,9884275.33,287704.45,1491.17,Thika,XL2A,Arc 1960 Zone 37M,Good,Bad Point,-1.049118,37.093062,S.K Bench Mark (Brass plug in  conc. ,SoK
+11,9862694.82,262618.02,1620.72,Ruaraka,37,Arc 1960 Zone 37M,Not updated,Bad Point,-1.244081,36.867576,S.K Bench Mark (Brass plug in  conc. ,SoK
+12,9856636.02,250707.82,1794.63,Kilimani,IN37,Arc 1960 Zone 37M,Not updated,Very Good,-1.298765,36.760548,S.K Bench Mark (Brass plug in  conc. ,SoK
+13,9850938.61,265539.13,1636.67,Embakasi,IV110,Arc 1960 Zone 37M,Not updated,Bad Point,-1.350391,36.893728,S.K Bench Mark (Brass plug in  conc. ,SoK
+14,9843068.2,271538.85,1549.54,Nairobi National Park,IV113,Arc 1960 Zone 37M,Not updated,Bad Point,-1.421597,36.947564,S.K Bench Mark (Brass plug in  conc. ,SoK
+15,9861150.89,266325.55,1596.98,Koma Rock,LX14,Arc 1960 Zone 37M,Not updated,Bad Point,-1.258067,36.900869,S.K Bench Mark (Brass plug in  conc. ,SoK
+16,9865099.09,269942.66,1533.42,Kasarani,LXI7,Arc 1960 Zone 37M,Good,Bad Point,-1.222396,36.933388,S.K Bench Mark (Brass plug in  conc. ,SoK
+17,9864652.85,264378.03,1611.34,Kobe,MT3,Arc 1960 Zone 37M,Not updated,Bad Point,-1.226391,36.8834,S.K Bench Mark (Brass plug in  conc. ,SoK
+18,9857698.23,242364.71,1894.69,Southern Bypass,V20,Arc 1960 Zone 37M,Not updated,Bad Point,-1.289095,36.68562,S.K Bench Mark (Brass plug in  conc. ,SoK
+19,9867129.06,238204.81,2105.1,Kiambaa,V/32,Arc 1960 Zone 37M,Not updated,Bad Point,-1.20381,36.648333,S.K Bench Mark (Brass plug in  conc. ,SoK
+20,9869895.69,238231.76,2144.19,Muguga,V/33,Arc 1960 Zone 37M,Not updated,Bad Point,-1.178801,36.648596,S.K Bench Mark (Brass plug in  conc.,SoK
+21,9892488.05,235050.14,2286.31,Matathia,V/52,Arc 1960 Zone 37M,Not updated,Bad Point,-0.974554,36.620181,S.K Bench Mark (Brass plug in  conc. ,SoK
+22,9856148.25,257722.89,1661.84,Nyayo Stadium,V/6,Arc 1960 Zone 37M,Good,Bad Point,-1.30323,36.823556,S.K Bench Mark (Brass plug in  conc. ,SoK
+23,9855767.29,256488.34,1680.1,Mawensi Garden,V/7,Arc 1960 Zone 37M,Not updated,Bad Point,-1.306665,36.812464,S.K Bench Mark (Brass plug in  conc. ,SoK
+24,9863725.11,240788.63,2014.77,Gitaru,VA/10,Arc 1960 Zone 37M,Not updated,Bad Point,-1.234601,36.671513,S.K Bench Mark (Brass plug in  conc. ,SoK
+25,9863310.11,241146.86,1996.13,Kanyiriri,VA/9,Arc 1960 Zone 37M,Not updated,Bad Point,-1.238355,36.674727,S.K Bench Mark (Brass plug in  conc. ,SoK
+26,9872069.74,264174.21,1590.49,,KISM7X,Arc 1960 Zone 37M,Good,Bad Point,-1.159333,36.88162,S.K Bench Mark (Brass plug in  conc. ,SoK
+27,9871222.72,252564.1,1906.69,Kanunga,KANUNGA X,Arc 1960 Zone 37M,Not updated,Bad Point,-1.16691,36.777331,I.P.C.U. New,SoK
+28,9862014.25,261405.31,1645.27,,KISM7X,Arc 1960 Zone 37M,Not updated,Bad Point,-1.250225,36.856678,Mast Station,SoK
+29,9864731.73,267904.06,1588.51,St. Francis Community Hospital,MARULAIS X,Arc 1960 Zone 37M,Not updated,Bad Point,-1.225703,36.915073,I.P.C.U. New,SoK
+30,9845232.39,271195.31,1590.2,Mlolongo,STIGANDS X,Arc 1960 Zone 37M,Not updated,Bad Point,-1.402027,36.944495,I.P.C.U. New,SoK
+31,9885327.51,284965.33,1527.47,Mugumoini,THIKA W.T,Arc 1960 Zone 37M,Not updated,Bad Point,-1.039589,37.068462,Drill hole water Tank New,SoK
+32,9852479.03,239607.77,1934.59,Embulbul,VET FARM X,Arc 1960 Zone 37M,Not updated,Bad Point,-1.336252,36.660815,Drill hole water Tank New,SoK
+36,9873011.16,266117.33,1454.63,Kamiti Corner,KJOJ,Arc 1960 Zone 37M,Not updated,Bad Point,-1.150835,36.89908,Undefined ,SoK
+37,9869785.48,270618.91,1429.74,Kenyatta University,KJ02,Arc 1960 Zone 37M,Not updated,Bad Point,-1.180029,36.939495,Undefined ,SoK
+38,9868559.86,254126.03,1646.09,Guango,KJ03,Arc 1960 Zone 37M,Not updated,Bad Point,-1.190995,36.791341,Undefined ,SoK
+39,9868370.84,261753.13,1518.01,Starehe Girls,KJ04,Arc 1960 Zone 37M,Not updated,Bad Point,-1.192758,36.859848,Undefined ,SoK
+40,9865665.45,273833.43,1407.39,Githurai Kimbo Armoury,KJ05,Arc 1960 Zone 37M,Good,Bad Point,-1.217302,36.968343,S.K Bench Mark (Brass plug in  conc. ,SoK
+41,9861333.87,278642.18,1387.76,Ruai,KJ06,Arc 1960 Zone 37M,Not updated,Bad Point,-1.256499,37.011512,Undefined ,SoK
+42,9867125.46,284706.22,1363.59,Sukari Ranch,KJ07,Arc 1960 Zone 37M,Not updated,Bad Point,-1.204172,37.066026,Undefined ,SoK
+43,9862608.54,288340.85,1377.83,Njiiru,KJ08,Arc 1960 Zone 37M,Not updated,Bad Point,-1.245038,37.09865,Undefined ,SoK
+44,9861021.49,242256.83,1834.37,Kinoo,KJ09,Arc 1960 Zone 37M,Good,Bad Point,-1.259053,36.684678,S.K Bench Mark (Brass plug in  conc. ,SoK
+45,9863207.84,247825.54,1703.07,Approved School,KJ10,Arc 1960 Zone 37M,Not updated,Bad Point,-1.239332,36.734711,Undefined ,SoK
+46,9859246.53,256421.09,1561.38,Museum Hill,KJ11,Arc 1960 Zone 37M,Not updated,"Good, real Good",-1.27521,36.811887,Undefined ,SoK
+47,9861107.69,268083.41,1473.98,Embakasi Sub-Station,KJ12,Arc 1960 Zone 37M,Not updated,Bad Point,-1.25847,36.916659,Undefined ,SoK
+48,9854722.67,275771.77,1471.39,Mavoko,KJ13,Arc 1960 Zone 37M,Not updated,Bad Point,-1.316255,36.985679,Undefined ,SoK
+49,9858741.97,281528.49,1386.31,Kamulu,KJ14,Arc 1960 Zone 37M,Not updated,Bad Point,-1.279955,37.037424,Undefined ,SoK
+50,9855517.54,286628.4,1365.48,Athi,KJ15,Arc 1960 Zone 37M,Not updated,Bad Point,-1.309145,37.083218,Undefined ,SoK
+51,9854377.75,239534.75,1782.57,Kerarapon,KJ16,Arc 1960 Zone 37M,Not updated,Bad Point,-1.319088,36.660175,Undefined ,SoK
+52,9850571.21,245434.92,1752.44,Karen,KJ17,Arc 1960 Zone 37M,Not updated,Bad Point,-1.353549,36.713137,Undefined ,SoK
+53,9845915.98,250962.56,1624.84,Market Street,KJ18,Arc 1960 Zone 37M,Not updated,Bad Point,-1.39568,36.762748,Undefined ,SoK
+54,9851765.43,251375.33,1684.07,Bomas,KJ19,Arc 1960 Zone 37M,Not updated,Bad Point,-1.342802,36.766505,Undefined ,SoK
+55,9852293.21,265707.21,1525.04,Red Commercial ,KJ20,Arc 1960 Zone 37M,Not updated,Bad Point,-1.338146,36.895248,Undefined ,SoK
+56,9847119.74,270063.27,1507.53,Kenya Civil Aviation,KJ21,Arc 1960 Zone 37M,Not updated,Bad Point,-1.384954,36.93434,Undefined ,SoK
+57,9850526.02,273677.29,1495.62,Katani,KJ22,Arc 1960 Zone 37M,Not updated,Bad Point,-1.354184,36.966832,Undefined ,SoK
